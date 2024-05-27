@@ -1,4 +1,4 @@
-<h1>NETFLX-CLONE</h1>
+# NETFLX-CLONE
 
 Dizi ve Film izlemek için oluşturulmuş bir platformdur.
 
